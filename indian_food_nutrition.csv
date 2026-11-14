@@ -1,0 +1,78 @@
+dish_name,category,calories,protein_g,carbs_g,fat_g,glycemic_index,prep_method,aging_delta
+Idli (2 pcs),South Indian Staple,120,4.0,24.0,0.5,Low,Steamed/Fermented,-0.4
+Masala Dosa,South Indian Staple,380,6.5,52.0,16.0,Medium,Pan-Roasted,0.1
+Plain Dosa,South Indian Staple,210,4.5,36.0,5.0,Medium,Pan-Roasted,-0.1
+Rava Upma (1 bowl),South Indian Staple,240,5.0,38.0,7.0,Medium,Steamed/Tempered,-0.2
+Medu Vada (2 pcs),South Indian Snack,290,6.0,26.0,18.0,Medium,Deep-Fried,0.6
+Sambhar (1 bowl),South Indian Staple,130,6.0,20.0,2.5,Low,Boiled/Simmered,-0.5
+Uttapam (1 pc),South Indian Staple,220,5.5,38.0,4.5,Low,Pan-Roasted,-0.3
+Pongal (1 bowl),South Indian Staple,310,8.0,45.0,10.0,Medium,Boiled/Tempered,-0.1
+Appam (2 pcs) with Stew,South Indian Staple,280,5.0,46.0,8.0,Medium,Fermented/Steamed,-0.2
+Dal Roti Sabzi (Thali),Balanced Meal,450,15.0,65.0,12.0,Low,Home-Cooked,-0.6
+Rajma Chawal (1 plate),North Indian Meal,420,14.0,68.0,9.0,Low,Boiled/Simmered,-0.4
+Chole Chawal (1 plate),North Indian Meal,440,13.0,70.0,11.0,Medium,Boiled/Simmered,-0.2
+Kadhi Pakora with Rice,North Indian Meal,460,11.0,62.0,17.0,Medium,Simmered/Fried,0.2
+Aloo Paratha (1 pc with Curd),North Indian Breakfast,340,7.5,48.0,13.0,Medium,Pan-Fried,0.2
+Paneer Paratha (1 pc),North Indian Breakfast,390,14.0,44.0,17.0,Low,Pan-Fried,0.0
+Gobi Paratha (1 pc),North Indian Breakfast,310,6.5,46.0,11.0,Medium,Pan-Fried,0.1
+Palak Paneer with 2 Rotis,North Indian Meal,430,18.0,45.0,19.0,Low,Home-Cooked,-0.4
+Dal Makhani with 1 Naan,Rich North Indian Meal,580,16.0,66.0,27.0,Medium,Slow-Cooked/Creamy,0.5
+Butter Chicken with 1 Naan,Rich North Indian Meal,640,28.0,58.0,32.0,Medium,Creamy/Roasted,0.6
+Tandoori Roti (2 pcs),Whole Grain Bread,220,7.0,44.0,1.5,Low,Baked/Tandoor,-0.4
+Butter Naan (1 pc),Refined Bread,310,7.5,50.0,9.0,High,Baked/Buttered,0.5
+Vegetable Pulao (1 bowl),Rice Dish,290,6.0,48.0,8.0,Medium,Steamed/Tempered,-0.1
+Chicken Biryani (1 plate),Rice Dish,540,26.0,60.0,21.0,Medium,Dum-Cooked,0.3
+Veg Biryani (1 plate),Rice Dish,430,10.0,64.0,14.0,Medium,Dum-Cooked,0.1
+Litti Chokha (2 pcs),East Indian Staple,310,9.5,48.0,8.5,Low,Roasted/Baked,-0.3
+Dhokla (3 pcs),West Indian Staple,160,6.0,26.0,3.0,Low,Steamed/Fermented,-0.5
+Poha (1 bowl),Everyday Breakfast,250,4.5,44.0,6.0,Medium,Steamed/Tempered,-0.2
+Thepla (2 pcs),West Indian Staple,260,6.5,38.0,9.0,Low,Pan-Roasted,-0.3
+Misal Pav (1 plate),West Indian Meal,410,12.0,56.0,15.0,Medium,Simmered/Fried,0.3
+Handvo (2 slices),West Indian Snack,240,7.5,32.0,9.0,Low,Baked/Fermented,-0.4
+Sabudana Khichdi (1 bowl),Fasting Staple,360,3.0,62.0,11.0,High,Pan-Tossed,0.3
+Fish Curry with Rice,East/Coastal Meal,450,25.0,54.0,14.0,Low,Simmered,-0.4
+Moong Dal Khichdi,Comfort Staple,220,9.0,38.0,3.5,Low,Boiled,-0.5
+Curd / Chaas (1 glass),Probiotic,95,4.5,6.0,4.0,Low,Fermented,-0.4
+Oats Dalia (1 bowl),High-Fiber Breakfast,210,7.5,36.0,3.5,Low,Boiled,-0.6
+Sprouts Chaat (1 bowl),High-Protein Snack,150,9.5,24.0,1.5,Low,Raw/Steamed,-0.7
+Paneer Tikka (6 pcs),Protein Starter,280,18.0,8.0,19.0,Low,Grilled/Tandoor,-0.2
+Tandoori Chicken (2 pcs),Protein Starter,300,32.0,4.0,16.0,Low,Grilled/Tandoor,-0.3
+Boiled Eggs (2 pcs),Protein Staple,155,12.5,1.0,11.0,Low,Boiled,-0.4
+Egg Bhurji with 2 Rotis,Balanced Meal,380,18.0,42.0,15.0,Low,Pan-Cooked,-0.3
+Roasted Makhana (1 bowl),Healthy Snack,110,3.0,20.0,1.5,Low,Dry-Roasted,-0.5
+Mixed Nuts & Seeds (30g),Healthy Fat Snack,180,6.0,6.0,15.0,Low,Raw/Roasted,-0.6
+Seasonal Fruit Bowl,Micronutrient Snack,120,1.5,28.0,0.5,Low,Raw,-0.6
+Samosa (1 pc),Street Indulgence,260,3.5,28.0,15.0,High,Deep-Fried,0.8
+Vada Pav (1 pc),Street Indulgence,300,5.5,42.0,12.0,High,Deep-Fried,0.7
+Chole Bhature (1 plate),Heavy Indulgence,550,14.0,62.0,26.0,High,Deep-Fried,1.1
+Pani Puri / Golgappe (6 pcs),Street Snack,180,3.0,30.0,5.0,Medium,Fried/Spiced Water,0.3
+Aloo Tikki Chaat (1 plate),Street Indulgence,370,6.0,48.0,17.0,High,Shallow-Fried,0.7
+Pav Bhaji (1 plate),Street Indulgence,480,9.0,58.0,23.0,High,Buttered/Mashed,0.8
+Kachori (1 pc),Street Indulgence,280,4.5,30.0,16.0,High,Deep-Fried,0.8
+Bread Pakora (1 pc),Street Indulgence,320,6.0,34.0,18.0,High,Deep-Fried,0.9
+Steamed Momos (6 pcs),Snack,210,8.0,32.0,5.0,Medium,Steamed,0.1
+Fried Momos (6 pcs),Street Indulgence,340,8.0,34.0,18.0,High,Deep-Fried,0.8
+Paneer Kathi Roll (1 pc),Fast Food,440,15.0,48.0,20.0,Medium,Pan-Fried,0.5
+Chicken Shawarma / Roll,Fast Food,460,22.0,45.0,21.0,Medium,Roasted/Wrapped,0.4
+Veg Hakka Noodles (1 plate),Indo-Chinese,410,8.0,58.0,16.0,High,Stir-Fried,0.6
+Veg Manchurian (6 balls),Indo-Chinese,360,6.0,42.0,18.0,High,Deep-Fried,0.8
+Chilli Paneer (1 bowl),Indo-Chinese,390,16.0,24.0,25.0,Medium,Fried/Tossed,0.6
+Cheese Burger (1 pc),Fast Food,490,18.0,44.0,26.0,High,Processed/Fried,0.9
+French Fries (Medium),Fast Food,365,4.0,48.0,17.0,High,Deep-Fried,0.9
+Maggi / Instant Noodles (1 bowl),Processed Snack,310,6.5,44.0,12.0,High,Boiled/Processed,0.7
+Gulab Jamun (2 pcs),Indian Sweet,350,4.0,52.0,14.0,High,Deep-Fried/Syrup,1.0
+Jalebi (100g),Indian Sweet,390,2.0,64.0,14.0,High,Deep-Fried/Syrup,1.1
+Rasgulla (2 pcs),Indian Sweet,210,4.0,44.0,1.5,High,Boiled/Syrup,0.5
+Kaju Katli (2 pcs),Indian Sweet,190,3.5,22.0,9.5,High,Cooked/Nut-Based,0.5
+Gajar Ka Halwa (1 bowl),Indian Dessert,330,5.5,42.0,15.0,High,Slow-Cooked/Ghee,0.6
+Ice Cream (1 scoop),Dessert,210,3.5,24.0,11.0,High,Frozen/Processed,0.6
+Late-Night Coffee / Chai,Stimulant,90,2.0,14.0,2.5,High,Brewed/Sugared,0.6
+"Masala Chai (Regular, 1 cup)",Beverage,85,2.0,12.0,2.5,Medium,Brewed,0.2
+Black Coffee (No Sugar),Beverage,5,0.3,0.0,0.0,Low,Brewed,-0.2
+Green Tea (No Sugar),Antioxidant Beverage,2,0.0,0.0,0.0,Low,Brewed,-0.4
+Cold Drink / Soda (300ml),High Sugar,140,0.0,35.0,0.0,High,Processed,0.9
+Packaged Fruit Juice (250ml),High Sugar,130,0.5,31.0,0.0,High,Processed,0.7
+Sweet Lassi (1 glass),Dairy Beverage,240,6.5,36.0,7.5,High,Blended/Sugared,0.4
+Nimbu Pani (Low Sugar),Hydration,45,0.2,11.0,0.0,Low,Fresh-Mixed,-0.2
+Coconut Water (1 glass),Electrolyte Hydration,45,1.5,9.0,0.5,Low,Natural,-0.4
+Energy Drink (250ml),Stimulant/High Sugar,115,0.0,28.0,0.0,High,Processed/Caffeinated,1.0
